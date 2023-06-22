@@ -12,7 +12,7 @@ public class HelloApplication {
     @RequestMapping("/test")
     
     String home() {
-        return "Hello World!!!@!!";
+        return "This is the message I meant to change on my first commit";
     }
 
 	public static void main(String[] args) {
