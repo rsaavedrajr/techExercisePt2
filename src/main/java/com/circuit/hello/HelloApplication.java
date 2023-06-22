@@ -12,7 +12,7 @@ public class HelloApplication {
     @RequestMapping("/test")
     
     String home() {
-        return "Minecraft is OP";
+        return "Minecraft is OP!!!!";
     }
 
 	public static void main(String[] args) {
