@@ -12,7 +12,7 @@ public class HelloApplication {
     @RequestMapping("/test")
     
     String home() {
-        return "My name is Elias and I like Minecraft";
+        return "Ryan: This is the message I meant to change on my first commit <br><br> Matthew: Hello World, My name is wha? <br> My name is who? <br> My name is eh <br><br> Roberto: This is a tech excercise. There are many like it but this one is mine <br> <br> Hello World!!!@!! <br> <br> are we back??? <br> <br> Elias: My name is Elias and I like Minecraft";
     }
 
 	public static void main(String[] args) {
